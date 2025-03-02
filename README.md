@@ -16,18 +16,6 @@ Este programa em C permite o cadastro e exibição de informações sobre duas c
 - Linguagem C
 - Bibliotecas: `stdio.h` (entrada e saída de dados) e `string.h` (manipulação de strings)
 
-## Como Executar
-
-1. Instale um compilador C (como GCC).
-2. Compile o programa com o comando:
-   ```sh
-   gcc -o cadastro_cidades cadastro_cidades.c
-   ```
-3. Execute o programa:
-   ```sh
-   ./cadastro_cidades
-   ```
-
 ## Exemplo de Uso
 
 ```
